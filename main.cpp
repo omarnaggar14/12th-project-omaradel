@@ -122,6 +122,7 @@ void sky(){
 
 }
 
+//house fuction 
 void house(){
 
 //ground
