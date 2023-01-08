@@ -182,7 +182,7 @@ void house(){
 
 
 
-
+// the triangle of house 
 
    glLoadIdentity();
    glTranslatef(3.8,0.5, -5.9);
