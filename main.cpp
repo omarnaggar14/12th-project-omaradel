@@ -16,6 +16,7 @@ void keyboard(unsigned char Key,int x,int y)
 
     glutPostRedisplay();
     }
+// mouse input 
 void onMouseClick(int button, int state, int x, int y)
 {
     if(button==GLUT_LEFT_BUTTON&&state==GLUT_DOWN)
