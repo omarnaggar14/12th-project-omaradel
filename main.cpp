@@ -618,6 +618,7 @@ void ground(){
     glutPostRedisplay();
     }
 
+//texture function 
     void texture (void){
 
    const GLfloat light_ambient[]  = { 0.0f, 0.0f, 0.0f, 1.0f };
