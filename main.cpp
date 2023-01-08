@@ -298,10 +298,10 @@ void ground(){
 
   glPushMatrix();
   glTranslatef(9.5,-5.5, 0.0);
-
-  glColor3f(0.7f, 0.5f, 0.2f);
+// built in functions 
+  glColor3f(0.7f, 0.5f, 0.2f); 
   glRotatef(270.0, 1.0, 0.0, 0.0);
-  glutSolidCone(0.3, 2.0, 70, 12);
+  glutSolidCone(0.3, 2.0, 70, 12); 
   glPopMatrix();
 
   glPushMatrix();
