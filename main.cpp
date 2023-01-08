@@ -37,6 +37,7 @@ void reshapeFunc (int w, int h)
     glMatrixMode(GL_MODELVIEW);
 }
 
+// sky function 
 
 void sky(){
 
