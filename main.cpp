@@ -366,7 +366,7 @@ void ground(){
 
 
 
-// third pyramid from left
+// third tree from left
   glPushMatrix();
   glTranslatef(-8.3,-5.5, 0.0);
   glColor3f(0.7f, 0.5f, 0.2f);
