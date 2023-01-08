@@ -422,7 +422,7 @@ void ground(){
 
 
    glLoadIdentity();
-   glTranslatef(-0.5f, -0.6f, -5.0f);
+   glTranslatef(-0.5f, -0.6f, -5.0f); // pyramid position 
    glBegin(GL_TRIANGLES);
       // Front
       glColor3f(0.5f, 0.3f, 0.0f);
